@@ -31,7 +31,7 @@
     ],
     "require": {
         "PHP": "^8.2",
-        "illuminate/support": "^11.31",
+        "illuminate/support": "^11.31.0",
         "illuminate/console": "^10.0",
         "laracasts/flash": "^3.2.2",
         "laravelcollective/html": "7.x-dev",

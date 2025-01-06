@@ -22,7 +22,7 @@
         "email": "me@mitul.me"
     }],
     "require": {
-        "PHP": "^8.3",
+        "PHP": "^8.2",
         "illuminate/support": "^11.31",
         "illuminate/console": "^10.0",
         "laracasts/flash": "^3.2.2",

@@ -60,7 +60,7 @@
         "type": "opencollective",
         "url": "https://opencollective.com/infyomlabs"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "config": {
         "allow-plugins": {

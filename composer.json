@@ -21,6 +21,14 @@
         "name": "Mitul Golakiya",
         "email": "me@mitul.me"
     }],
+    "repositories": [
+        {
+            "type": "vcs",
+            "name":"laravelcollective/html",
+            "version":"7.x-dev",
+            "url": "https://github.com/ahmed127/html-collective.git"
+        }
+    ],
     "require": {
         "PHP": "^8.2",
         "illuminate/support": "^11.31",

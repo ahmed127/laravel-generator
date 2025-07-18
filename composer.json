@@ -24,7 +24,7 @@
     "require": {
         "PHP": "^8.2",
         "illuminate/support": "^11.45.0",
-        "illuminate/console": "^10.0",
+        "illuminate/console": "^12.20.0",
         "laracasts/flash": "^3.2.2",
         "symfony/var-exporter": "^6.2.5"
     },

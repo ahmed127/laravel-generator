@@ -21,20 +21,11 @@
         "name": "Mitul Golakiya",
         "email": "me@mitul.me"
     }],
-    "repositories": [
-        {
-            "type": "vcs",
-            "name":"laravelcollective/html",
-            "version":"7.x-dev",
-            "url": "https://github.com/ahmed127/html-collective.git"
-        }
-    ],
     "require": {
         "PHP": "^8.2",
         "illuminate/support": "^11.31.0",
         "illuminate/console": "^10.0",
         "laracasts/flash": "^3.2.2",
-        "laravelcollective/html": "7.x-dev",
         "symfony/var-exporter": "^6.2.5"
     },
     "require-dev": {
